@@ -6,7 +6,22 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Nov 2022 13:44:27 +0200</lastBuildDate><atom:link href="https://fleimeris.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 14:00:33 +0200</lastBuildDate><atom:link href="https://fleimeris.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antras post</title>
+      <link>https://fleimeris.github.com/posts/antraspost/</link>
+      <pubDate>Sun, 27 Nov 2022 14:00:33 +0200</pubDate>
+      
+      <guid>https://fleimeris.github.com/posts/antraspost/</guid>
+      <description>if(monki.isMad()) { Console.WriteLine(&amp;#34;Bad :(((((((&amp;#34;); } </description>
+      <content>&lt;p&gt;&lt;img src=&#34;https://fleimeris.github.com/angrymonki.jpg&#34; alt=&#34;Angry Monki&#34;&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;if(monki.isMad())
+{
+    Console.WriteLine(&amp;#34;Bad :(((((((&amp;#34;);
+}
+&lt;/code&gt;&lt;/pre&gt;</content>
+    </item>
+    
     <item>
       <title>My page</title>
       <link>https://fleimeris.github.com/posts/firstpage/</link>
